@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "きばる",
+  "base_artist": "ねむ",
+  "createdAt": "2026-03-30T13:26:46.235581Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きばる",
+      "artist": "ねむ",
+      "has_synced": false,
+      "path": "select/pl_01_きばる_ねむ.txt"
+    }
+  ]
+}
